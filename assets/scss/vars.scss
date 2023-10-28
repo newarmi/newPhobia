@@ -1,0 +1,43 @@
+// Fonts
+
+$mainFont: "Stolzl", "Roboto", Helvetica, Arial, sans-serif;
+
+// Colors
+
+$backgroundColor: #13151a;
+$fontColor: #ffffff;
+$blackFontColor: #13151a;
+$accent: #526aff;
+$greyColorOpacity: rgba(255, 255, 255, 0.2);
+$greyColor: #a1a1a3;
+$danger: #eb5151;
+$success: #40a561;
+
+$accentHover: #3046d0;
+$additional: #ec770b;
+$additionalHover: #ec770bb2;
+
+$admin: #3936e4;
+$adminAdditional: #3936e4b2;
+$adminFontColorAdditional: #000000b2;
+$darkGreyColor: #969696;
+
+$animTime: 0.35s;
+$ghostIcon: "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNiA3LjYxOTA1QzE2IDMuNDI4NTcgMTIuNCAwIDggMEMzLjYgMCAwIDMuNDI4NTcgMCA3LjYxOTA1VjEzLjc2ODdDMCAxNC42MzIyIDEuMDIwOTIgMTUuMDg5OCAxLjY2NTQ5IDE0LjUxNTFMMi42ODU3MSAxMy42MDU0TDQuNzA1OTQgMTUuNDA2N0M1LjA4NTE4IDE1Ljc0NDggNS42NTc2OCAxNS43NDQ4IDYuMDM2OTIgMTUuNDA2N0w4LjA1NzE0IDEzLjYwNTRMMTAuMDc3NCAxNS40MDY3QzEwLjQ1NjYgMTUuNzQ0OCAxMS4wMjkxIDE1Ljc0NDggMTEuNDA4MyAxNS40MDY3TDEzLjQyODYgMTMuNjA1NEwxNC4zMTg1IDE0LjQzNDJDMTQuOTU4IDE1LjAyOTcgMTYgMTQuNTc2MiAxNiAxMy43MDIzVjcuNjE5MDVaTTUuMzE0MjkgNi42OTM4OEM0LjExNDI5IDYuNjkzODggMy4yIDUuODIzMTMgMy4yIDQuNzg5MTJDMy4yIDMuODA5NTIgNC4wNTcxNCAyLjk5MzIgNS4wODU3MSAyLjg4NDM1QzQuNjI4NTcgMi45OTMyIDQuMjg1NzEgMy4zNzQxNSA0LjI4NTcxIDMuODA5NTJDNC4yODU3MSA0LjM1Mzc0IDQuNzQyODYgNC43ODkxMiA1LjM3MTQzIDQuNzg5MTJDNS45NDI4NiA0Ljc4OTEyIDYuNDU3MTQgNC4zNTM3NCA2LjQ1NzE0IDMuODA5NTJDNi40NTcxNCAzLjM3NDE1IDYuMTE0MjkgMi45OTMyIDUuNiAyLjg4NDM1QzYuNjg1NzEgMi45OTMyIDcuNDg1NzEgMy44MDk1MiA3LjQ4NTcxIDQuNzg5MTJDNy40ODU3MSA1LjgyMzEzIDYuNTE0MjkgNi42OTM4OCA1LjMxNDI5IDYuNjkzODhaTTEwLjY4NTcgNi42OTM4OEM5LjQ4NTcxIDYuNjkzODggOC41NzE0MyA1LjgyMzEzIDguNTcxNDMgNC43ODkxMkM4LjU3MTQzIDMuODA5NTIgOS40Mjg1NyAyLjk5MzIgMTAuNDU3MSAyLjg4NDM1QzEwIDIuOTkzMiA5LjYgMy4zNzQxNSA5LjYgMy44MDk1MkM5LjYgNC4zNTM3NCAxMC4wNTcxIDQuNzg5MTIgMTAuNjg1NyA0Ljc4OTEyQzExLjI1NzEgNC43ODkxMiAxMS43NzE0IDQuMzUzNzQgMTEuNzcxNCAzLjgwOTUyQzExLjc3MTQgMy4zNzQxNSAxMS40Mjg2IDIuOTkzMiAxMC45MTQzIDIuODg0MzVDMTIgMi45OTMyIDEyLjggMy44MDk1MiAxMi44IDQuNzg5MTJDMTIuOCA1LjgyMzEzIDExLjgyODYgNi42OTM4OCAxMC42ODU3IDYuNjkzODhaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K";
+$defaultShadow: 0 1rem 1.5rem 0 rgba(0, 0, 0, 0.2);
+
+:root {
+  --white: #ffffff;
+  --white-rgb: 255, 255, 255;
+  --black: #13151a;
+  --black-rgb: 19, 21, 26;
+  --gray: #a1a1a3;
+  --dark-gray: #717376;
+  --accent: #526aff;
+  --accent-rgb: 82, 106, 255;
+  --background-body: #13151a;
+  --red: #eb5151;
+  --orange: #FF6636;
+  --font-stack: "Stolzl", "Roboto", Helvetica, Arial, sans-serif;
+  --font-stack-book: "Stolzl Book", "Roboto", Helvetica, Arial, sans-serif;
+}

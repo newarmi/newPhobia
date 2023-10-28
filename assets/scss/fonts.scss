@@ -1,0 +1,270 @@
+@font-face {
+  font-family: "Stolzl";
+  src:
+    url("assets/fonts/stolzl/Stolzl_Book.woff") format("woff2"),
+    url("assets/fonts/stolzl/Stolzl_Book.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Stolzl";
+  src:
+    url("assets/fonts/stolzl/Stolzl_Regular.woff") format("woff2"),
+    url("assets/fonts/stolzl/Stolzl_Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Stolzl";
+  src:
+    url("assets/fonts/stolzl/Stolzl_Medium.woff") format("woff2"),
+    url("assets/fonts/stolzl/Stolzl_Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "Montserrat";
+  src:
+    url("assets/fonts/montserrat/Montserrat-Thin.ttf"),
+    url("assets/fonts/montserrat/Montserrat-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src:
+    url("assets/fonts/montserrat/Montserrat-ExtraLight.ttf"),
+    url("assets/fonts/montserrat/Montserrat-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src:
+    url("assets/fonts/montserrat/Montserrat-Light.ttf"),
+    url("assets/fonts/montserrat/Montserrat-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src:
+    url("assets/fonts/montserrat/Montserrat-Regular.ttf"),
+    url("assets/fonts/montserrat/Montserrat-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src:
+    url("assets/fonts/montserrat/Montserrat-Medium.ttf"),
+    url("assets/fonts/montserrat/Montserrat-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src:
+    url("assets/fonts/montserrat/Montserrat-SemiBold.ttf"),
+    url("assets/fonts/montserrat/Montserrat-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src:
+    url("assets/fonts/montserrat/Montserrat-Bold.ttf"),
+    url("assets/fonts/montserrat/Montserrat-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src:
+    url("assets/fonts/montserrat/Montserrat-ExtraBold.ttf"),
+    url("assets/fonts/montserrat/Montserrat-ExtraBold.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src:
+    url("assets/fonts/montserrat/Montserrat-Black.ttf"),
+    url("assets/fonts/montserrat/Montserrat-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GraphikLCG";
+  src:
+    url("assets/fonts/graphik/GraphikLCG-Thin.ttf"),
+    url("assets/fonts/graphik/GraphikLCG-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GraphikLCG";
+  src:
+    url("assets/fonts/graphik/GraphikLCG-Extralight.ttf"),
+    url("assets/fonts/graphik/GraphikLCG-Extralight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GraphikLCG";
+  src:
+    url("assets/fonts/graphik/GraphikLCG-Light.ttf"),
+    url("assets/fonts/graphik/GraphikLCG-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GraphikLCG";
+  src:
+    url("assets/fonts/graphik/GraphikLCG-Regular.ttf"),
+    url("assets/fonts/graphik/GraphikLCG-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GraphikLCG";
+  src:
+    url("assets/fonts/graphik/GraphikLCG-Medium.ttf"),
+    url("assets/fonts/graphik/GraphikLCG-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GraphikLCG";
+  src:
+    url("assets/fonts/graphik/GraphikLCG-Semibold.ttf"),
+    url("assets/fonts/graphik/GraphikLCG-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GraphikLCG";
+  src:
+    url("assets/fonts/graphik/GraphikLCG-Bold.ttf"),
+    url("assets/fonts/graphik/GraphikLCG-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GraphikLCG";
+  src:
+    url("assets/fonts/graphik/GraphikLCG-Black.ttf"),
+    url("assets/fonts/graphik/GraphikLCG-Black.ttf") format("truetype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GraphikLCG";
+  src:
+    url("assets/fonts/graphik/GraphikLCG-Super.ttf"),
+    url("assets/fonts/graphik/GraphikLCG-Super.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-weight: 100;
+  font-family: "Stolzl";
+  font-style: normal;
+  src: url("assets/fonts/Stolzl-Thin.woff2") format("woff2"), url("assets/fonts/Stolzl-Thin.woff") format("woff");
+  font-display: swap;
+}
+
+
+@font-face {
+  font-weight: normal;
+  font-family: "Stolzl";
+  font-style: normal;
+  src: url("assets/fonts/Stolzl-Regular.woff2") format("woff2"), url("assets/fonts/Stolzl-Regular.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: bold;
+  font-family: "Stolzl";
+  font-style: normal;
+  src: url("assets/fonts/Stolzl-Bold.woff2") format("woff2"), url("assets/fonts/Stolzl-Bold.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 300;
+  font-family: "Roboto";
+  font-style: normal;
+  src: url("assets/fonts/Roboto-Light.woff2") format("woff2"), url("assets/fonts/Roboto-Light.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 100;
+  font-family: "Roboto";
+  font-style: normal;
+  src: url("assets/fonts/Roboto-Thin.woff2") format("woff2"), url("assets/fonts/Roboto-Thin.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 500;
+  font-family: "Roboto";
+  font-style: normal;
+  src: url("assets/fonts/Roboto-Medium.woff2") format("woff2"), url("assets/fonts/Roboto-Medium.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: normal;
+  font-family: "Roboto";
+  font-style: normal;
+  src: url("assets/fonts/Roboto-Regular.woff2") format("woff2"), url("assets/fonts/Roboto-Regular.woff") format("woff");
+  font-display: swap;
+}
+@font-face {
+  font-weight: normal;
+  font-family: "Stolzl Book";
+  font-style: normal;
+  src: url("assets/fonts/Stolzl-Book.woff2") format("woff2"), url("assets/fonts/Stolzl-Book.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: bold;
+  font-family: "Roboto";
+  font-style: normal;
+  src: url("assets/fonts/Roboto-Bold.woff2") format("woff2"), url("assets/fonts/Roboto-Bold.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-weight: 900;
+  font-family: "Roboto";
+  font-style: normal;
+  src: url("assets/fonts/Roboto-Black.woff2") format("woff2"), url("assets/fonts/Roboto-Black.woff") format("woff");
+  font-display: swap;
+}
